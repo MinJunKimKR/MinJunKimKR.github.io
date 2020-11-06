@@ -188,3 +188,10 @@ ul > li:before {
   display: block;
   margin-bottom: 1.5rem;
 }
+
+.profile-photo{
+    height: auto;
+    width: 20%;
+    margin: auto;
+    border-radius: 50%;
+}
