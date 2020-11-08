@@ -199,6 +199,16 @@ ul > li:before {
   margin-top: auto; font-weight : 800; font-size : 1.4rem
 }
 
+.contact-icon{
+  width: 40px;
+  height: auto;
+  margin: 0px 5px 0px 15px;
+}
+
+.contact-title{
+  margin-top: 20px; font-weight : 400; font-size : 1.0rem
+}
+
 .profile-photo {
     height: auto;
     width: 20%;
