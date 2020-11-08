@@ -189,6 +189,16 @@ ul > li:before {
   margin-bottom: 1.5rem;
 }
 
+.skill-icon{
+  width: 20%;
+  height: auto;
+  margin: 0px 5px;
+}
+
+.skill-title{
+  margin-top: auto; font-weight : 800; font-size : 1.4rem
+}
+
 .profile-photo {
     height: auto;
     width: 20%;
